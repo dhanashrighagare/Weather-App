@@ -1,0 +1,67 @@
+.home-page-container {
+    margin: 50px;
+    padding: 50px;
+  }
+  
+  .date-time {
+    font-size: 16px;
+    color: #333;
+    font-style: italic;
+  }
+  
+  .error-message {
+    font-size: 18px;
+    color: red;
+  }
+  
+  .search-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #45a049;
+  }
+
+  /* Light Mode */
+.light-mode {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.light-mode .dark-mode-button {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+/* Dark Mode */
+.dark-mode {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.dark-mode .dark-mode-button {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Common styles for button */
+.dark-mode-button {
+  padding: 5px 8px;
+  margin-left: 30px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.dark-mode-button:hover {
+  opacity: 0.8;
+}
+
+ 
