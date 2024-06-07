@@ -17,3 +17,7 @@ Date and time
 # npm start 
 
 ## you can navigate to http://localhost:3000 in your browser.
+
+
+![Screenshot_20240608_002955](https://github.com/dhanashrighagare/Weather-App/assets/77435428/28c9efe8-8770-460e-9628-11f18e79d2dd)
+![Screenshot_20240608_003011](https://github.com/dhanashrighagare/Weather-App/assets/77435428/cf1b9a3d-bad3-48a6-b815-b3b949c4bba5)
